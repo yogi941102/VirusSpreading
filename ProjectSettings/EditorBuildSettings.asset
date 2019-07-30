@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Main01.unity
+    guid: 9e39b1d63d1324799830e0efd2046585
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Main02.unity
+    guid: 0e396f912c5b94354a8abd7f5e8c6a4c
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level01.unity
+    guid: cb6897e057ce442cda25c6b8f2d14a9e
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level02.unity
+    guid: fe149b606e617459da197f3af9cbe1ed
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level03.unity
+    guid: 6551969dd759a40f398a3eff61d46ad5
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level04.unity
+    guid: e369781d7edf04801a1a0eec8ac970ee
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level05.unity
+    guid: ce3ca0270142346a6a4f50c93be28afd
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level06.unity
+    guid: 066a52a30a0eb45d1be554faf2e789bf
+  - enabled: 1
+    path: Assets/MineSweeping/Resource/Scenes/Level07.unity
+    guid: cd0ad50a6299f468c98bc04e3fc17466
+  m_configObjects: {}

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{09C2294C-B7FD-C2E5-D6A9-02AC72A8E927}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MineSweeping/Resource/Scripts/Main01.cs">
+    <Files>
+      <File FileName="Assets/MineSweeping/Resource/Scripts/Level07.cs" Line="57" Column="50" />
+      <File FileName="Assets/MineSweeping/Resource/Scripts/TipGrid.cs" Line="34" Column="57" />
+      <File FileName="Assets/MineSweeping/Resource/Scripts/Level05.cs" Line="57" Column="51" />
+      <File FileName="Assets/MineSweeping/Resource/Scripts/Level06.cs" Line="57" Column="51" />
+      <File FileName="Assets/MineSweeping/Resource/Scripts/Main02.cs" Line="7" Column="5" />
+      <File FileName="Assets/MineSweeping/Resource/Scripts/Main01.cs" Line="13" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirusSpreading" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MineSweeping" expanded="True">
+                <Node name="Resource" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Main01.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Virus" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7364791-602e-41de-b161-aa9efa73c68f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

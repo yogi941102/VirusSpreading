@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grids
+  - Template
+  - dangerous_4_1_d
+  - dangerous_4_2_d
+  - dangerous_4_3_d
+  - dangerous_4_0_d
+  - dangerous
+  - safe
+  - neutral
+  - Chatbox
+  - GreenTick
+  - TipText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UIText
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 2056200673
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: solution
+    uniqueID: 1168579193
+    locked: 0
+  - name: Monsters
+    uniqueID: 2848742245
+    locked: 0
